@@ -84,8 +84,6 @@ This course provides a hands-on and technical overview of SQL Injection attacks 
 
 ---
 
-![Disclaimer](https://img.shields.io/badge/Use%20Responsibly-Ethical%20Hacking-orange?style=flat-square&logo=hackthebox)
-
 ## ❗ Disclaimer
 
 This repository is created for **educational and ethical** research only.
