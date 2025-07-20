@@ -1,4 +1,4 @@
-# 🛡️ SQL Injection Attacks – EC-Council Course Archive
+# 🛡️ SQL Injection Attacks – EC-Council Course Continue Completions
 
 ![Course](https://img.shields.io/badge/EC--Council-Certified-brightgreen?style=flat-square&logo=leanpub)
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=verizon)
